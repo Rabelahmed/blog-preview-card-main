@@ -14,8 +14,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Rabelahmed/blog-preview-card-main]
+- Live Site URL: [https://rabelahmed.github.io/blog-preview-card-main/]
 
 ### Built with
 
